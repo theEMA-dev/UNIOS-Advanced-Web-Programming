@@ -1,0 +1,14 @@
+[
+    {
+        "original_name": "test_image.jpg",
+        "encrypted_name": "encrypted_67fd6889b90283.01362720.enc",
+        "file_type": "image\/jpeg",
+        "upload_date": "2025-04-14 19:56:57"
+    },
+    {
+        "original_name": "test_document.pdf",
+        "encrypted_name": "encrypted_67fd68a43ee912.27503442.enc",
+        "file_type": "application\/pdf",
+        "upload_date": "2025-04-14 19:57:24"
+    }
+]
